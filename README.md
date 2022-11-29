@@ -1,6 +1,8 @@
 # CCT-Library-System
 HDip in Computing Science - Algorithms and Constructs
+
 Students: Renata Carvalho e Suellen Oliveira
+
 CCT College - 2022
 
 # Challenges, Sorting and Searching Algorithm implemented 
